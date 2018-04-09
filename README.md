@@ -15,3 +15,7 @@ There is some purpose.
 This is a simple project so deployment is ...
 
 ## How to Contribute
+
+## Copyright
+
+Copyright
