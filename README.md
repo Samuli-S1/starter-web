@@ -8,8 +8,10 @@ This is an example.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+There is some purpose.
 
 ## Deployment
+
+This is a simple project so deployment is ...
 
 ## How to Contribute
