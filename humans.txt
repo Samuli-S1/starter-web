@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bob Bobbington bob@testi.org @bob
 
 # THANKS
 
