@@ -16,6 +16,8 @@ This is a simple project so deployment is ...
 
 ## How to Contribute
 
+To be announced.
+
 ## Copyright
 
 Copyright
